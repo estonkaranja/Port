@@ -13,3 +13,9 @@ This project has content about me in my life of development.
  * Bootstrap
  
  ---
+ ## Setup/Information Required
+ * This was made for the user's to be able to log-in my account.
+ * It was for a new able student that needs for him to look and locate my own Pages in github.
+ 
+ ---
+ 
