@@ -24,3 +24,8 @@ This project has content about me in my life of development.
 |Log-in|View profile|Read content|
 |comments-available|Comment|Receive comments|
 
+---
+## Contibutors
+There is actually no one-else but mewho contributed and the github.Repo in this sight up above.
+
+---
