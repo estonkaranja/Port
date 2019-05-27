@@ -18,4 +18,9 @@ This project has content about me in my life of development.
  * It was for a new able student that needs for him to look and locate my own Pages in github.
  
  ---
- 
+## BBD
+|Input|Output|Behaviour|
+|-----|------|---------|
+|Log-in|View profile|Read content|
+|comments-available|Comment|Receive comments|
+
