@@ -7,9 +7,9 @@ This project has content about me in my life of development.
 
 ---
 ## Languages used
- *Html.
- *Css.
- *Javascripts.
- *Bootstrap
+ * Html
+ * Css
+ * Javascripts
+ * Bootstrap
  
  ---
