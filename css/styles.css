@@ -155,7 +155,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 .slideshow-container {
   position: relative;
-  background: #f1f1f1f1;
+  background: Pink;
 }
 
 .mySlides {
@@ -192,7 +192,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 .dot-container {
     text-align: center;
     padding: 20px;
-    background: #ddd;
+    background: black;
 }
 
 .dot {
@@ -227,7 +227,7 @@ body {
   padding: 30px;
   font-size: 40px;
   text-align: center;
-  background: white;
+  background: blanchedalmond;
 }
 
 .leftcolumn {   
@@ -242,13 +242,13 @@ body {
 }
 
 .fakeimg {
-  background-color: #aaa;
+  background-color: pink;
   width: 100%;
   padding: 20px;
 }
 
 .card {
-   background-color: white;
+   background-color: transparent;
    padding: 20px;
    margin-top: 20px;
 }
@@ -262,7 +262,7 @@ body {
 .footer {
   padding: 20px;
   text-align: center;
-  background: #ddd;
+  background: pink;
   margin-top: 20px;
 }
 
@@ -270,5 +270,6 @@ body {
   .leftcolumn, .rightcolumn {   
     width: 100%;
     padding: 0;
+    
   }
-}g
+}
